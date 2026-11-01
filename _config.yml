@@ -1,4 +1,6 @@
 # Site settings
+locale                   : "en-US"
+site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
